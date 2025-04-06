@@ -4,11 +4,6 @@
 
 @layer base {
   body {
-    @apply font-pretendard;
-  }
-
-  button,
-  a {
-    @apply transition-all duration-200 ease-in-out;
+    @apply font-pretendard text-[#111111];
   }
 }
